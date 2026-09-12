@@ -1,9 +1,5 @@
 # Digital Breakdown Browser Reference
 
-Authoritative Pass 7 browser implementation used as the behavioral reference for the native C++ port.
+Historical browser reference for Digital Breakdown.
 
-Primary runtime files:
-
-- index.html
-- index_module.mjs
-- assets/embedded-assets.js
+Current game work lives in [digital-breakdown-apk](https://github.com/indrolend/digital-breakdown-apk).
